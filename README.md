@@ -21,7 +21,6 @@ This tool is useful for bioinformatics visualization, educational purposes, and 
   - [2. `dna_to_image_with_text.py`](#2-dna_to_image_with_textpy)
 - [License](#license)
 - [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Features
 
@@ -55,8 +54,8 @@ This tool is useful for bioinformatics visualization, educational purposes, and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/oldtarzan19/dna-to-image-converter.git
-cd dna-to-image-converter
+git clone https://github.com/oldtarzan19/DNA-to-Image-Converter.git
+cd DNA-to-Image-Converter
 ```
 
 ### 2. Set Up a Virtual Environment (Recommended)
